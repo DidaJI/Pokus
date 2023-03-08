@@ -17,6 +17,7 @@
 #include <nvs_flash.h>
 
 // Pridana poznamka...
+// Pridana poznamka 2
 
 #include "main.h"
 //#include "em4095.h"
