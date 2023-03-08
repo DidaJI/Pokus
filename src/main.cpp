@@ -16,6 +16,8 @@
 #include <Preferences.h>
 #include <nvs_flash.h>
 
+// Pridana poznamka...
+
 #include "main.h"
 //#include "em4095.h"
 #include "wificomm.h"
